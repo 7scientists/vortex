@@ -1,0 +1,5 @@
+chardet
+sqlalchemy
+ujson
+pyodbc
+six
